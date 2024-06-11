@@ -84,14 +84,18 @@ class Retriever:
         """
         Load all data from respective files.
         """
-        self.chat_history = self.load_data('data/chat_history.txt')
-        self.vendor_data = self.load_data('data/vendors.txt')
-        self.entertainment_data = self.load_data('data/entertainment.txt')
-        self.sponsor_data = self.load_data('data/sponsors.txt')
-        self.volunteer_data = self.load_data('data/volunteers.txt')
-        self.feedback_data = self.load_data('data/feedback.txt')
-        self.permit_data = self.load_data('data/permits.pdf')  # Example of loading a PDF file
-        self.status_data = self.load_data('data/status.csv')  # Loading data from a CSV file
+
+        try:
+            self.chat_history = self.load_data('data/chat_history.txt')
+            self.vendor_data = self.load_data('data/vendors.txt')
+            self.entertainment_data = self.load_data('data/entertainment.txt')
+            self.sponsor_data = self.load_data('data/sponsors.txt')
+            self.volunteer_data = self.load_data('data/volunteers.txt')
+            self.feedback_data = self.load_data('data/feedback.txt')
+            # self.permit_data = self.load_data('data/permits.pdf')  # Example of loading a PDF file
+            self.status_data = self.load_data('data/status.csv')  # Loading data from a CSV file
+        except Exception as e:
+            print("Error finding contextual data: " + str(e))
         
         # Combine all data sources into a single list for embeddings
         all_text_data = (

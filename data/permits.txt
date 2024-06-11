@@ -1,0 +1,19 @@
+Permit: Event Permit
+Description: Required for hosting public events
+Application Deadline: 30 days before the event
+Contact: City Hall, permits@cityhall.com
+
+Permit: Food Stall Permit
+Description: Required for vendors selling food
+Application Deadline: 15 days before the event
+Contact: Health Department, health@cityhall.com
+
+Permit: Music Performance License
+Description: Required for live music performances
+Application Deadline: 20 days before the event
+Contact: Music Licensing Board, music@cityhall.com
+
+Regulation: Noise Control
+Description: Must adhere to city noise ordinances
+Details: Maximum sound level of 70 dB after 10 PM
+Contact: City Hall, noisecontrol@cityhall.com

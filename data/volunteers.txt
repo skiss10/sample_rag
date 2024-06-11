@@ -1,0 +1,19 @@
+Volunteer: Anna Helper
+Skills: Crowd control, first aid
+Availability: Full-day
+Contact: anna@helper.com
+
+Volunteer: Brian Guide
+Skills: Tour guide, information desk
+Availability: Morning only
+Contact: brian@guide.com
+
+Volunteer: Clara Scout
+Skills: Kids' activities, setup and teardown
+Availability: Full-day
+Contact: clara@scout.com
+
+Volunteer: David Organizer
+Skills: Event organization, logistics
+Availability: Afternoon only
+Contact: david@organizer.com

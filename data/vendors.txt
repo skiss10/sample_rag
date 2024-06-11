@@ -1,0 +1,15 @@
+Vendor: Green Earth Goods
+Products: Eco-friendly household items
+Contact: Sarah Green, sarah@greenearthgoods.com
+
+Vendor: Local Eats
+Products: Gourmet food and snacks
+Contact: John Smith, john@localeats.com
+
+Vendor: Handmade Crafts
+Products: Handcrafted jewelry and art
+Contact: Emma Crafts, emma@handmadecrafts.com
+
+Vendor: Organic Produce
+Products: Fresh fruits and vegetables
+Contact: Mike Farmer, mike@organicproduce.com

@@ -1,0 +1,19 @@
+Band: The Sunshine Band
+Genre: Rock/Pop
+Availability: Available on weekends
+Contact: Alice Singer, alice@sunshineband.com
+
+Performer: Magic Mike
+Type: Magician
+Availability: Evenings only
+Contact: Mike Magic, mike@magicmike.com
+
+Group: The Dance Crew
+Type: Dance Performances
+Availability: Weekdays and weekends
+Contact: Lily Dancer, lily@dancecrew.com
+
+Band: Jazz & Blues
+Genre: Jazz/Blues
+Availability: Weekends only
+Contact: Tom Jazz, tom@jazzandblues.com
